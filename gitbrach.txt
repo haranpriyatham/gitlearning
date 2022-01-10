@@ -1,0 +1,1 @@
+git branches effectively a pointer to a snapshot of changes
