@@ -1,1 +1,5 @@
 git is open source virsion control system git status
+git status - status of the untracked files and pending commits etc
+git init - top initiate repository
+git add - add <filename> => to add a file to repository
+git commit -m " <description> " => to commit files and add descripton 
