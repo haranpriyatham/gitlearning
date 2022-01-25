@@ -6,3 +6,4 @@ git commit -m " <description> " => to commit files and add descripton
 git branch <name> => create new branch
 git branch => view branches and current branch
 git checkout <branch_name> => move fron one branch to another 
+git push origin <branchname> OR git push (if i am in the same branch and same head)
